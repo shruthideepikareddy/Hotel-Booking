@@ -1,2 +1,2 @@
 # Hotel-Booking
-hotel booking website fortend with react
+hotel booking website frontend with react
